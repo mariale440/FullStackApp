@@ -13,12 +13,14 @@ Requerimientos para Frontend:
 - NodeJS
 
 
-En carpeta de proyecto ejecutar el comando: npm install (para instalar todos los paquetes que estan en el package.json)
+En carpeta de proyecto ejecutar el comando: 
+- npm install (para instalar todos los paquetes que estan en el package.json)
+
 luego ejecutar los comando en la carpeta del proyecto: 
-npm install bootstrap --save 
-npm add axios
-npm install react-router-dom 
-npm install --save moment react-moment
+- npm install bootstrap --save 
+- npm add axios
+- npm install react-router-dom 
+- npm install --save moment react-moment
 
 Para ejecutar app:
-npm start
+- npm start
