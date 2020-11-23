@@ -99,7 +99,7 @@ class CreateTaskComponent extends Component {
                                         <div className = "form-group">
                                             <label> Fecha Creacion: </label>
                                             <input placeholder="Fecha Creacion" name="fechaCreacion" className="form-control" 
-                                                value={this.state.fechaCreacion} onChange={this.changeFechaCreacionHandler}/>
+                                                value={this.state.fechaCreacion} readOnly onChange={this.changeFechaCreacionHandler}/>
                                             
                                             
                                         </div>
