@@ -21,6 +21,7 @@ luego ejecutar los comando en la carpeta del proyecto:
 - npm add axios
 - npm install react-router-dom 
 - npm install --save moment react-moment
+- npm install react-datepicker --save 
 
 Para ejecutar app:
 - npm start
